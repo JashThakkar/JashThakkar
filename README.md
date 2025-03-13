@@ -6,5 +6,5 @@
 
 🤝 Let’s Connect!
 - ✉️ Email: Jashjt05@gmail.com
-- 💼 Linkedin: www.linkedin.com/in/jash-thakkar-0699a3316
-- 📁 Resume: [https://github.com/JashThakkar/JashThakkar/blob/main/Resumepdf.pdf](https://github.com/JashThakkar/JashThakkar/blob/main/Jash%20Thakkar_RESUME.pdf)
+- 💼 [Linkedin](www.linkedin.com/in/jash-thakkar-0699a3316)
+- 📁 [Resume](https://github.com/JashThakkar/JashThakkar/blob/main/Jash%20Thakkar_RESUME.pdf)
